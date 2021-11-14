@@ -1,2 +1,2 @@
 # MLSA
-maximum enthropy statistics for spectral data deconvolution
+Maximum enthropy statistics for spectral data deconvolution.
